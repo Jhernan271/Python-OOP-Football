@@ -2,7 +2,7 @@
 Assignment 5
 OOP Classes for a Football team Organizer describing a team and its players
 including Offensive, Defensive, and Special Teams players.
-Module: HernandezAssignment5class.py'''
+Module: PythonClasses.py'''
 
 #Class with generic player information
 #Methods include player name, stats, and changing jersey number
